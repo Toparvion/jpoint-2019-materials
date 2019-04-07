@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: sample.HelloCDS
+Class-Path: slf4j-api-1.7.25.jar slf4j-simple-1.7.25.jar
+
