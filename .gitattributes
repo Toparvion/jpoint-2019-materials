@@ -1,2 +1,2 @@
 # the following is added to exclude the class path list files from code statistics on Github
-*.cp linguist-vendored
+**/*.cp linguist-vendored
